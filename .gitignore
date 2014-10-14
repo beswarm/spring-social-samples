@@ -7,3 +7,8 @@
 **/build
 .DS_Store
 .gradle
+.idea/
+**/.idea/
+**/gradle.iml
+**/classes
+**/*.iml
